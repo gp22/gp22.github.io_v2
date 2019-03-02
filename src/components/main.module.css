@@ -1,0 +1,10 @@
+.indent {
+  text-indent: 1.5rem;
+}
+
+@media (min-width: 900px) {
+  .main {
+    padding-left: 20px;
+    width: 70%;
+  }
+}

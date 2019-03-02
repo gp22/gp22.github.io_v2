@@ -1,0 +1,10 @@
+.layout {
+  color: white;
+  margin: 3rem 1rem;
+}
+
+@media (min-width: 900px) {
+  .layout {
+    margin-top: 6rem;
+  }
+}
